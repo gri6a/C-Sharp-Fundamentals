@@ -5,7 +5,7 @@ using System;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Program : Program2
     { // public means that this method is accessible from another classes
         // classes cannot go into Main block
         public void getData() // void means that this method does not return anything
@@ -19,6 +19,7 @@ namespace ConsoleApp1
             // based on Program class
             Program p = new Program();
             p.getData();
+            p.SetData();
 
             // int (whole numbers) and String are static data types
             Console.WriteLine("Hello World");
