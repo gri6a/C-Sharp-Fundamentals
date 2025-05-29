@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Cn9mepWNtb0=",
+  "dgSpecHash": "fE69mOkLHwU=",
   "success": true,
   "projectFilePath": "C:\\Users\\grzeg\\Documents\\Selenium\\C-Sharp-Fundamentals\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\grzeg\\.nuget\\packages\\selenium.webdriver\\4.33.0\\selenium.webdriver.4.33.0.nupkg.sha512"
+  ],
   "logs": []
 }
